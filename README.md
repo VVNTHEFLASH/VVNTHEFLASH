@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VVNTHEFLASH
-- 🎸 Currently Working at Metafic as React JS Intern
-- 👀 I’m interested in Web Development
+- 🎸 Currently Working at Metafic as React Native Developer
+- 👀 I’m interested in Mobile & Web Development
 - 🌱 I’m Mastered React, Node JS, Mongo DB, etc.,
 - 💞️ I’m looking to collaborate on Team Project related on Front-End Project.
 - 📫 You Can Reach Me by Visiting My Portfolio -->   https://vvntheflash.github.io/portfolio/
@@ -17,6 +17,7 @@ GITHUB
 
 # NEW SKILLS ON LIST
 REACT NATIVE
+Typescript
 # Prograd
 
 <!---
