@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VVNTHEFLASH
-- 🎸 Currently Working at Metafic as React Native Developer
+- 🎸 Currently Working as React Native Developer
 - 👀 I’m interested in Mobile & Web Development
 - 🌱 I’m Mastered React, Node JS, Mongo DB, etc.,
 - 💞️ I’m looking to collaborate on Team Project related on Front-End Project.
