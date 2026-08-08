@@ -1,32 +1,75 @@
-- 👋 Hi, I’m @VVNTHEFLASH
-- 🎸 Currently Working as a React Native Developer
-- 👀 I’m interested in Mobile & Web Development
-- 🌱 I’m Mastered React, React Native, Node JS, Mongo DB, etc.,
-- 💞️ I’m looking to collaborate on a Team Project related to the Front-End Project.
-- 📫 You Can Reach Me by Visiting My Portfolio -->   https://vvntheflash.github.io/portfolio/
+# 👋 Hi, I'm Vishnu Vardhan (@VVNTHEFLASH)
 
-### Skills That I Mastered:-
+I'm a **Software Engineer specializing in Frontend Development**, with experience building scalable **web and mobile applications** using React, React Native, and modern JavaScript/TypeScript technologies.
 
-* REACT NATIVE - 5/5
-* TYPESCRIPT - 4/5
-* HTML - 4/5
-* CSS - 4/5
-* JAVASCRIPT - 4/5
-* REACT JS - 4/5
-* NODE JS - 3/5
-* EXPRESS - 2/5
-* MONGODB - 3/5
-* GITHUB - 4/5
-* RUBY ON RAILS - 3/5
-* POSTGRES SQL - 3/5
+* 💻 Currently working as a **Senior Software Engineer**
+* ⚛️ Specialized in **React.js & React Native**
+* 🌐 Interested in **Web & Mobile Application Development**
+* 🧩 Experienced in building **reusable, dynamic UI components**
+* 🚀 Passionate about creating clean, responsive, and user-friendly applications
+* 🤝 Open to collaborating on interesting **Frontend & Full-Stack projects**
+* 📫 Portfolio: https://portfolio.rockhuntersproject.com/
 
-### NEW SKILLS ON LIST
+## 🛠️ Tech Stack
 
-* DOCKER
-* JENKINS
-* SELENIUM
+### Frontend
 
-<!---
-VVNTHEFLASH/VVNTHEFLASH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* React.js
+* React Native
+* Next.js
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Backend & Database
+
+* Node.js
+* Express.js
+* PostgreSQL
+* MongoDB
+* Sequelize
+* Supabase
+
+### Tools & Technologies
+
+* Git & GitHub
+* TanStack React Query
+* Axios
+* Ant Design
+* Lexical
+* REST APIs
+
+## 📊 Skill Level
+
+| Technology   | Level |
+| ------------ | ----- |
+| React Native | ⭐⭐⭐⭐⭐ |
+| React.js     | ⭐⭐⭐⭐⭐ |
+| JavaScript   | ⭐⭐⭐⭐  |
+| TypeScript   | ⭐⭐⭐⭐  |
+| HTML         | ⭐⭐⭐⭐  |
+| CSS          | ⭐⭐⭐⭐  |
+| Next.js      | ⭐⭐⭐⭐  |
+| Node.js      | ⭐⭐⭐⭐  |
+| PostgreSQL   | ⭐⭐⭐   |
+| MongoDB      | ⭐⭐⭐   |
+| Express.js   | ⭐⭐⭐   |
+| Git & GitHub | ⭐⭐⭐⭐  |
+
+## 🚀 What I Enjoy Building
+
+* 📱 Cross-platform mobile applications
+* 🌐 Modern React web applications
+* 🧩 Reusable component systems
+* 📊 Dynamic and data-driven interfaces
+* 🔌 REST API integrations
+* 🎨 Responsive and accessible UI
+* ⚡ Performance-focused frontend applications
+
+## 🤝 Let's Collaborate
+
+I'm always interested in working with developers and teams on meaningful **web, mobile, and frontend projects**.
+
+Feel free to explore my work through my portfolio or connect with me on GitHub.
