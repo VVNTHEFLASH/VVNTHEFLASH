@@ -68,6 +68,11 @@ I'm a **Software Engineer specializing in Frontend Development**, with experienc
 * 🎨 Responsive and accessible UI
 * ⚡ Performance-focused frontend applications
 
+### Connect with me on LinkedIn
+
+* https://linkedin.com/in/vvntheflash/
+* https://rockhuntersproject.com/
+
 ## 🤝 Let's Collaborate
 
 I'm always interested in working with developers and teams on meaningful **web, mobile, and frontend projects**.
